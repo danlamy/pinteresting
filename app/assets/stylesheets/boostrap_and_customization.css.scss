@@ -1,8 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,400italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+$font-family-sans-serif: 'Lobster';
 $body_bg:  #3498db;
-$navbar-inverse-bg: #34495e;
-$navbar-inverse-link-color: white;
+$navbar-height: 45px;
+$navbar-default-bg: #34495e;
+$navbar-default-link-color: white;
 $brand-primary: #3498db;
 $jumbotron-color: white;
 $jumbotron-bg: #34495e;
 
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
