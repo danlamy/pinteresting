@@ -13,7 +13,7 @@ gem 'jbuilder', '~> 2.0'
 # gem 'spring',        group: :development
 gem 'bootstrap-sass'
 
-group :development, :teste do
+group :development, :test do
 	gem 'sqlite3'
 end
 
